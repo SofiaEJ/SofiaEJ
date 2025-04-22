@@ -9,7 +9,7 @@
 
 - [x] Learn R
 - [ ] ?
-- [ ] Profit
+- [ ] Profit :tada:
 
 ---
 
